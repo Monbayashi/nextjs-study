@@ -11,7 +11,7 @@ const DetailPage: React.FC = () => {
     // to fetch the news item with newsId
 
     return (
-        <h1>The Detail Page</h1>
+        <h1>The Detail Page: {newsId}</h1>
     );
 }
 
